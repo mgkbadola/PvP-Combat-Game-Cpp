@@ -1,4 +1,2 @@
 # PvP-Combat-Game-Cpp
-This was my school project back when I was in 12th standard. Still proud of it!
-
-Any suggestions, improvements or/and reports on issues are welcome!
+With a hero on your side, play a text based duel with your friend  and march onwards to victory!
